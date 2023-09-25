@@ -17,7 +17,7 @@ When data is findable and open there is a greater chance the data will be reused
 ### Increase awareness of the weight of data in your organization
 - Ensure IT is sharing details fo their data use with users and creators (amount of storage used, financial cost of that storage and the estimated GHG emissions from that data storage). Make data weight visible - Gerry McGovern
 ### Store data in sustainable, net-zero [data centres](datacentres.md)
-- This is last on purpose - do the other things first.
+- This practice is listed last on purpose. It is recommended to to do the other practices first.
 
 ## What Digital Nations are doing
 - add content here
