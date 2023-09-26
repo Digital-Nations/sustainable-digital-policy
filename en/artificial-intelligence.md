@@ -20,6 +20,7 @@
 ### Canada
 
 ## Resources
-
+https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf
+https://arxiv.org/pdf/1906.02243.pdf
 
 
