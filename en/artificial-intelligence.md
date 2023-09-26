@@ -16,9 +16,10 @@
 
 ## What Digital Nations are doing
 ### Canada
-- Canada included sustainability considerations in their 2023 [Guide on Use of Generative AI https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html]
+- Canada included sustainability considerations in their 2023 [Guide on Use of Generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
+
 ## Resources
-https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf
+- https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf
 https://arxiv.org/pdf/1906.02243.pdf
 
 
