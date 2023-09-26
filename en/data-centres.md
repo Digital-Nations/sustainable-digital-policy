@@ -1,4 +1,7 @@
 # Data centres
+## Sustainability Considerations:
+
+## Policy measures/practices:
 
 ## Resources:
 - [Climate Neutral Data Center Pact](https://www.climateneutraldatacentre.net/)
