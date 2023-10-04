@@ -1,6 +1,8 @@
 # Data centres
 ## Sustainability Considerations
-
+- Digitalisation of services results in increased needs for compute and storage driving a rapid increase in data centre energy requirements and water use.
+- 
+- According to the US government "Data centers are one of the most energy-intensive building types, consuming 10 to 50 times the energy per floor space of a typical commercial office building."
 ## Policy measures/practices
 
 ## What Digital Nations are doing
@@ -9,7 +11,7 @@
 - [Climate Neutral Data Center Pact](https://www.climateneutraldatacentre.net/)
 - [Creating a sustainable data center lifecycle](https://imasons.org/wp-content/uploads/2023/04/iMasons_Sustainability_Framework_042023-.pdf) (iMasons.org)
 
-# Cloud services
+## Cloud services
 ## Sustainability Considerations
 Moving to cloud can generate sustainability savings but there are caveats:
 - Generally cloud services run at better efficiency rates than on-premise data centres. This can mean that for your workload, less IT equipment could be required and therefore less energy will be required to run the workload.
