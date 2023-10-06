@@ -1,11 +1,29 @@
 # Data centres
 ## Sustainability Considerations
 - Digitalisation of services results in increased needs for compute and storage driving a rapid increase in data centre energy requirements and water use.
-- 
 - According to the US government "Data centers are one of the most energy-intensive building types, consuming 10 to 50 times the energy per floor space of a typical commercial office building."
 
 ## Policy measures/practices
 
+### Set sutainability requirements for your data centres
+Some requirements to consider are:
+- using 100% renewable or low carbon energy, and using a local energy source
+- ensuring that data centres are strategically located (away from areas of water stress, where temperatures allow for air cooling etc.) 
+- having a water management plan in place
+- ensuring that data centre equipment meets ecolabel requirements.
+
+### Comply with standards and regulations
+There are many interenational standards and regulations for data centres. Some are just related to the building envelope and others consider the entirety of data centre operations. Some standards and regulations to consider include:
+- [EU Code of Conduct for energy efficient data centres](https://e3p.jrc.ec.europa.eu/communities/data-centres-code-conduct)
+- [LEED](https://www.usgbc.org/leed) / [BREEAM](https://bregroup.com/products/breeam/)
+- ISO 14000 and 14040
+- [Optimizing Server Refresh Cycles](https://ieeexplore.ieee.org/document/8263130)
+
+### Ensure your contracts for procured data centre services (Cloud, Colocation data centres) include sustainability and reporting requirements
+- [Green Public Procurement (GPP) Criteria for Data Centres, Server Rooms and Cloud Services](https://publications.jrc.ec.europa.eu/repository/handle/JRC118558)
+- Ensure the hosting provider does not overprovision - that the service meets current needs but can be scaled up/down as required
+-  
+  
 ## What Digital Nations are doing
 
 ## Resources
