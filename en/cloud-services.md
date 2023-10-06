@@ -20,9 +20,11 @@ Many of the major Cloud companies provide emissions information to customers:
 ## Policy measures/Practices
 
 ### Set procurement standards for Cloud services regarding sustainability
-- Some measures to consider:
-  - Cloud provider has set greenhouse-gas reduction targets
-  - Cloud provider operate on zero-emission data centre facilities
+Some measures to consider:
+- Ensure that your hosting provider has set greenhouse gas reduction targets (including for scope 3) and is moving towards net zero by 2050 or sooner.
+- Ensure that your hosting provider submits regular reports including data on the energy, water consumption and CO2e emissions (including scope 3) resulting from the contract
+- Ensure that your hosting provider has circular ICT policies and strategies in place to support the reuse, refurbishment and repair of equipment supporting the hosting services.
+- Ensure the hosting provider does not overprovision - that the service meets current needs but can be scaled up/down as required
 
   
 ### Require your Cloud services providers to report annually on your emissions from their services
