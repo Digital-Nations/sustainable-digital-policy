@@ -1,4 +1,4 @@
-# Cloud services (see also [Data Centres](data-centres.md)
+# Cloud services (see also [Data Centres](data-centres.md))
 ## Sustainability Considerations
 Moving to cloud can generate sustainability savings but there are caveats:
 - Generally cloud services run at better efficiency rates than on-premise data centres. This can mean that for your workload, less IT equipment could be required and therefore less energy will be required to run the workload.
