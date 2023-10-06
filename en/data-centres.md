@@ -3,6 +3,7 @@
 - Digitalisation of services results in increased needs for compute and storage driving a rapid increase in data centre energy requirements and water use.
 - 
 - According to the US government "Data centers are one of the most energy-intensive building types, consuming 10 to 50 times the energy per floor space of a typical commercial office building."
+
 ## Policy measures/practices
 
 ## What Digital Nations are doing
