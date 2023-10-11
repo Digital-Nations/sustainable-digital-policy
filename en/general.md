@@ -14,6 +14,7 @@
 ### Ensure sustainability is included in digital strategies
 
 * The UK's [Digital and Data Roadmap](https://www.gov.uk/government/publications/roadmap-for-digital-and-data-2022-to-2025) has 6 missions. The 4th is Secure and sustainable ICT
+* Canada’s [2023 Digital Ambition](https://www.canada.ca/en/government/system/digital-government/digital-ambition.html) includes language around sustainable government and of the need to consider carbon footprint in the IT equipment that is procured.
 
 ### Ensure sustainability is considered as part of cost/benefit analyses
 
