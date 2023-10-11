@@ -19,11 +19,11 @@
 ### Ensure sustainability is considered as part of cost/benefit analyses
 
 ## Measurement
-### Set internal reduction targets
+### Set GHG reduction targets for digital
 
 * The UK published their [Greening government: ICT and digital services strategy 2020-2025](https://www.gov.uk/government/publications/greening-government-ict-and-digital-services-strategy-2020-2025/greening-government-ict-and-digital-services-strategy-2020-2025#sustainable-ict-and-digital-services-strategy-targets-for-2020-2025-policy-paper) in 2020.
 
-### Track the digital carbon footprint of operations
+### Track the carbon footprint of digital operations
 * The UK produces an annual report on greening government ICT. The [2021-22 report](https://www.gov.uk/government/publications/greening-government-ict-annual-report-2021-to-2022) is available online.
 
 ## E-waste
