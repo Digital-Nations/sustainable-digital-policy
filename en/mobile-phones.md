@@ -80,6 +80,11 @@ Leasing mobile phones can have an environmentally beneficial impact if at the en
 
 The large volume buying of mobile phones for IT operations in government creates an opportunity to influence the market and encourage smart leasing and take-back programs. 
 
+### Require that the manufacturing process meets environmental standards
+Its important to choose suppliers that have sustainable manufacturing processes (not just sustainable products) as significant emissions result from the manufacturing process. Some requirements to consider include:
+* The supplier should meet international standards for its environmental management practices (e.g. ISO 14001)
+* The supplier must ensure that any hazardous substances and assets used during or as a result of the manufacturing process are disposed of in a sustainable manner
+
 ## Data to support proposed policy measures
 The GHG emissions created during the manufacture of a mobile phone can be useful in demonstrating the environmental impact of your organization's phone inventory and for calculating the environmental impact from policy measures.
 The standard figure used for the GHG emissions from manufacturing of a single mobile phone is [80kg CO2](https://8billiontrees.com/carbon-offsets-credits/carbon-footprint-of-iphone/).
