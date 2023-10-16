@@ -89,6 +89,7 @@ The [Electricity Map](https://app.electricitymaps.com/map) tool is a useful reso
 ## What are Digital Nations doing?
 ### Canada
 - In [Budget 2023](https://www.budget.canada.ca/2023/report-rapport/chap1-en.html#a2) it was announced that the Government of Canada will work to implement a right to repair and will work with international partners and other stakeholders to explore implementing a standard charging port in Canada.
+- The UK has a [waste hierarchy model](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/69403/pb13530-waste-hierarchy-guidance.pdf) which supports the recommendations of buy less as a first step.
 
 ## Resources
 - [Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
