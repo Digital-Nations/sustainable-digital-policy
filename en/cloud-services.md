@@ -7,9 +7,6 @@ Large savings can be generated if the energy mix in your area is high carbon.
 But, if the energy mix in your area is already all or mostly renewable, the emissions savings from Cloud efficiencies could be negligible.
 - In order to determine if moving to the Cloud will generate sustainability savings, you need to measure or estimate the current energy use, waste and emissions for that workload in your on-premise data centre. 
 - GHG emissions from purchased cloud services are indirect and are reported under scope 3. It is important to ensure that your organization is reporting on scope 3 emissions so as to not be  
-- Cloud companies using renewable energy they are generating themselves
-- waste heat reuse
-- water use
 
 Many of the major Cloud companies provide emissions information to customers:
 - Google provides their Scope 1, 2 and 3 emissions
