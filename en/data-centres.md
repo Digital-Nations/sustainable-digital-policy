@@ -6,12 +6,12 @@
 
 ## Policy measures/practices
 
-### Set sutainability requirements for your data centres
+### Set sustainability requirements for your data centres
 Some requirements to consider are:
-- using 100% renewable or low carbon energy, and using a local energy source
-- ensuring that data centres are strategically located (away from areas of water stress, where temperatures allow for air cooling etc.) 
-- having a water management plan in place
-- ensuring that data centre equipment meets ecolabel requirements.
+- The data centre should be powered by 100% renewable or low carbon energy, using a local energy source where possible
+- The data centre should be strategically located (away from areas of water stress, where temperatures allow for air cooling etc.) 
+- The data centre should have a water management plan in place
+- The equipment used in the data centre should meet type I ecolabel requirements.
 
 ### Comply with standards and regulations
 There are many interenational standards and regulations for data centres. Some are just related to the building envelope and others consider the entirety of data centre operations. Some standards and regulations to consider include:
