@@ -74,9 +74,11 @@ Note that the environmental impacts from right to repair may take some time to b
 Individual charging cables have less of an environmental impact than an individual mobile phone however the proliferation of different types of cables for different devices creates a large e-waste problem. To The EU has implemented Common Charging Solution legislation requiring manufacturers to standardize on USB-C.  
 
 ### Consider circular procurement models such as 'manufacturer take back programs' and leasing
+Manufacturer take back programs can result in a much higher percentage of materials being recycled and reused rather than generic 3rd party recycling due to specialized machinery developed by the manufactuers of those devices. One example of this is [Apple's Daisy recycling robot](https://www.apple.com/ca/newsroom/2019/04/apple-expands-global-recycling-programs/).
+
 Leasing mobile phones can have an environmentally beneficial impact if at the end of the leasing period with your government, the mobile phone provider leases the same phone to someone else, extending the life of the phone. 
 
-Governments with their large volume buying have the opportunity to influence the market and encourage smart leasing and take-back programs. 
+The large volume buying of mobile phones for IT operations in government creates an opportunity to influence the market and encourage smart leasing and take-back programs. 
 
 ## Data to support proposed policy measures
 The GHG emissions created during the manufacture of a mobile phone can be useful in demonstrating the environmental impact of your organization's phone inventory and for calculating the environmental impact from policy measures.
