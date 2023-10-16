@@ -1,7 +1,7 @@
 # Data centres (also see [Cloud Services](cloud-services.md))
 ## Sustainability Considerations
 - Digitalisation of services results in increased needs for compute and storage driving a rapid increase in data centres and their energy requirements and water use.
-- According to the US government "Data centers are one of the most energy-intensive building types, consuming 10 to 50 times the energy per floor space of a typical commercial office building."
+- According to the [US government](https://www.energy.gov/eere/buildings/data-centers-and-servers) "Data centers are one of the most energy-intensive building types, consuming 10 to 50 times the energy per floor space of a typical commercial office building."
 - When it comes to data centre sustainability, it is important to look beyond the direct emissions from data centres and also consider the emissions that were created when data centre equipment was manufactured and transported to the data centre (scope 3 emissions).
 
 ## Policy measures/practices
