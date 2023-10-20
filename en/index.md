@@ -12,7 +12,7 @@ This guide contains policy direction more than detailed technical guidance and s
 * [Artificial Intelligence](artificial-intelligence.md)
 * [Cloud Services](cloud-services.md)
 * [Data](data.md)
-* [Data Centres](datacentres.md)
+* [Data Centres](data-centres.md)
 * [General](general.md)
 * [Mobile phones](mobile-phones.md)
 * [Software apps and websites](software-apps-and-websites.md)
